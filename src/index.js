@@ -25,6 +25,7 @@ export { default as Layout } from './components/Layout';
 export { default as Navbar } from './components/Navbar';
 export { default as PageTransition } from './components/PageTransition';
 export { default as SpinnerContainer } from './components/SpinnerContainer';
+export { default as SpinnerContainer2 } from './components/SpinnerContainer2';
 export { default as Tabla } from './components/Tabla';
 export { default as TransitionComponent } from './components/TransitionComponent';
 export { default as Typed } from './components/Typed';
